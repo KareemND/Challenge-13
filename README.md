@@ -2,15 +2,7 @@
     
 ## Description
     This application is about building the back-end of an E-commerce company. It configures an express API to use sequelize and interact with the SQL database. It is able to run GET requests for all the routes. In addition, it can run POST, DELETE, and PUT requests. 
-    
-## Table of Contents
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [License](#license)
-    - [Contributing](#contributing)
-    - [Tests](#tests)
-    - [Questions](#questions)
-    
+
 ## Installation
     N/A
     
